@@ -44,6 +44,7 @@ public class LineGraphPanel extends ChartPanel {
                 dataset,
                 PlotOrientation.VERTICAL,
                 true, true, false);
+        
 
         
         JSplitPane jsp = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT);
